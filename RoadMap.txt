@@ -1,0 +1,9 @@
+The Search Engine Project:
+    - Run it from the command line.
+    - When you search, bring up important things, not junk.
+    - The commands should be colored.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+About the search engine:
+    - Then she can build her own search engine that will eliminate the need for search engines.
